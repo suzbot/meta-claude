@@ -12,6 +12,18 @@ Started 2026-04-26.
 
 <!-- New entries are inserted below this line, newest first -->
 
+## 2026-04-30 · drop · [Fowler: Reduce Friction with AI (hub)](https://martinfowler.com/articles/reduce-friction-ai/)
+**Source:** martinfowler.com (tier-1) · **Decided:** drop (retroactive removal as redundant) · **Previously:** in catalog under Practitioner workflows
+Reasoning: Pure index page for a closed three-part series (Design-First, Context Anchoring, Feedback Flywheel). All three sub-pieces are individually cataloged in their conceptually appropriate subtopics under the new structure, so the hub's only function — pointing at them — is now duplicated by the catalog itself. The series cohesion is preserved by each sub-piece's title ("Reduce Friction with AI: ...").
+
+## 2026-04-30 · drop · [Claudefa.st: Agent Teams](https://claudefa.st/blog/guide/agents/agent-teams)
+**Source:** claudefa.st (tier-1) · **Decided:** drop (retroactive removal under working-style filter) · **Previously:** in catalog under Agents, orchestration, and harnesses
+Reasoning: Pulled from catalog during the catalog reorganization review. Agent Teams is a multi-actor team-collaboration feature (multiple parallel sessions with inter-agent messaging, shared task lists, "teammates" framing) — clear working-style mismatch for a solo single-contributor practitioner. Entry itself flagged staleness risk: "if the feature changes significantly, this article ages fast." Sub-Agent Best Practices remains in catalog and covers the solo-applicable subagent dispatch territory.
+
+## 2026-04-30 · drop · [Addy Osmani: The Code Agent Orchestra](https://addyosmani.com/blog/code-agent-orchestra/)
+**Source:** addyosmani.com (tier-1) · **Decided:** drop (retroactive removal under working-style filter) · **Previously:** in catalog under Agents, orchestration, and harnesses
+Reasoning: Pulled from catalog during the catalog reorganization review. The 8-levels-of-AI-coding framework assumes level 6+ is fleet orchestration (multi-agent across repositories) — limited applicability for solo work. The load-bearing "spec is the leverage" kernel is preserved more cleanly in Addy Factory Model (which stays). Removing trims redundant fleet-flavored framing from the agents section.
+
 ## 2026-04-30 · drop · [Anthropic (Jess Yan): Product development in the agentic era](https://claude.com/blog/product-development-in-the-agentic-era)
 **Source:** claude.com (tier-1) · **Recommended:** drop · **Decided:** drop · **Captured elsewhere:** `Career/Library.md`
 Reasoning: 60% product positioning; the substantive 40% (cloud-native PM-task automation, spec-to-prototype velocity, two-phase discovery+build) is non-novel for the catalog (covered by Addy Long-running Agents, Routines, Factory Model). PM-craft framing is genuinely interesting in a professional context but doesn't add a methodology angle the meta-claude library is missing — captured in the PM's separate career-context library instead.
